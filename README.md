@@ -86,7 +86,7 @@ $$
 
 ### Bellman Equation
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%202.png)
+<img width="756" alt="Untitled" src="https://user-images.githubusercontent.com/96854885/235692754-48545233-1d12-476d-8089-5c58c4e3fb76.png">
 
 ### State-value function
 
@@ -96,9 +96,8 @@ $$
 v_{\pi}(s_t) = E[R_{t+1} + \gamma v(s_{t+1})|s_t = s] 
 $$
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%203.png)
-
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%204.png)
+<img width="300" alt="4" src="https://user-images.githubusercontent.com/96854885/235693565-bc7aae4c-6d0b-4384-9f6c-658544433a26.png">
+<img width="400" alt="5" src="https://user-images.githubusercontent.com/96854885/235693604-8a60bfac-112d-4cc4-a79e-dbf8fe48a3f5.png">
 
 ### Action-value function
 
@@ -108,9 +107,9 @@ $$
 q_{\pi}(s_t, a_t) = E_{\pi}[R_t + \gamma q_{\pi}(s_{t+1}, a_{t+1})|s_t=s, a_t=a]
 $$
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%205.png)
+<img width="300" alt="6" src="https://user-images.githubusercontent.com/96854885/235693710-cadbfef2-ef9b-4845-aa9d-ff7cf2458a8a.png">
+<img width="400" alt="7" src="https://user-images.githubusercontent.com/96854885/235693739-84c425a2-e63b-483c-b3a5-4b47d0deecd0.png">
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%206.png)
 
 ## Policy iteration
 
@@ -142,7 +141,7 @@ Monte-carlo method : Episode가 끝나면 update
 
 Temporal Difference learning : Episode가 끝나기 전에 update
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%208.png)
+<img width="756" alt="Untitled" src="https://user-images.githubusercontent.com/96854885/235693284-9d822db1-0da2-49d9-9707-dc6853089f1b.png">
 
 ## On-policy vs Off-policy
 
