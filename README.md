@@ -5,8 +5,7 @@
 ## 강화학습
 
 - 시행착오를 통해 학습해 일련의 결정을 내리는 기계학습 알고리즘
-
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled.png)
+<img width="756" alt="Untitled" src="https://user-images.githubusercontent.com/96854885/235691785-6aa69d27-b1d6-4ed7-8798-493eba097787.png">
 
 Terminology
 
