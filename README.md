@@ -149,4 +149,4 @@ On-policy : Target policy와 behavior policy가 같은 경우(SARSA) → 안전�
 
 Off-policy : Target policy와 behavior policy가 다른 경우(Q-learning) 
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%209.png)
+![10](https://user-images.githubusercontent.com/96854885/235695209-0d2fd9ea-f65f-4bf6-a675-e93cc720fb54.png)
