@@ -121,7 +121,7 @@ $$
 v_{\pi}(s) = \Sigma\pi(a|s)(R_s^a+\gamma \Sigma P_{ss'}^av_{\pi}(s'))
 $$
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%207.png)
+![8](https://user-images.githubusercontent.com/96854885/235694969-07dd0205-50f5-44a1-b4b1-6864cf8e5634.png)
 
 ### Value iteration
 
