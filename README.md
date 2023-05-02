@@ -96,7 +96,7 @@ $$
 v_{\pi}(s_t) = E[R_{t+1} + \gamma v(s_{t+1})|s_t = s] 
 $$
 
-<img width="300" height="100" alt="4" src="https://user-images.githubusercontent.com/96854885/235693565-bc7aae4c-6d0b-4384-9f6c-658544433a26.png">
+<img width="300" height="150" alt="4" src="https://user-images.githubusercontent.com/96854885/235693565-bc7aae4c-6d0b-4384-9f6c-658544433a26.png">
 <img width="400" height="80" alt="5" src="https://user-images.githubusercontent.com/96854885/235693604-8a60bfac-112d-4cc4-a79e-dbf8fe48a3f5.png">
 
 ### Action-value function
@@ -107,7 +107,7 @@ $$
 q_{\pi}(s_t, a_t) = E_{\pi}[R_t + \gamma q_{\pi}(s_{t+1}, a_{t+1})|s_t=s, a_t=a]
 $$
 
-<img width="300" height="100" alt="6" src="https://user-images.githubusercontent.com/96854885/235693710-cadbfef2-ef9b-4845-aa9d-ff7cf2458a8a.png">
+<img width="300" height="150" alt="6" src="https://user-images.githubusercontent.com/96854885/235693710-cadbfef2-ef9b-4845-aa9d-ff7cf2458a8a.png">
 <img width="400" height="80" alt="7" src="https://user-images.githubusercontent.com/96854885/235693739-84c425a2-e63b-483c-b3a5-4b47d0deecd0.png">
 
 
