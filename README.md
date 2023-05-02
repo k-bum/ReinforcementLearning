@@ -24,7 +24,7 @@ Terminology
 
 ## Grid world
 
-![Untitled](Reinforcement%20Learning%207a2097c8aa734c38848e5c164f83891e/Untitled%201.png)
+![2](https://user-images.githubusercontent.com/96854885/235692200-096f0154-43c0-4fb3-9f52-364d7767a4e7.png)
 
 - Q-value : 어떤 action을 했을 때 미래에 받을 것이라고 예상되는 return의 값
 - Greedy action : 그 순간에 최적이라고 생각되는 것을 선택해 나가는 방식으로 진행해 최종 상태에 도달
